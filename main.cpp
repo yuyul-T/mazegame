@@ -6,6 +6,8 @@
 bool showPath=false;
 std::vector<Point> path;
 
+//我终于要成了，git你太难了
+
 int main(){
     InitWindow(1280, 1280, "HBUT 程序设计综合实践项目：maze");
     Maze maze("../assets/maze0.txt");
